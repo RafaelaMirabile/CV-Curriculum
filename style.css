@@ -1,0 +1,151 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+}
+a { color: inherit; } 
+
+body{
+    background-color: #F5F5F5;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 40px 14px 40px;
+    align-items: center;
+    width: 100%;
+}
+
+header > div:nth-child(2) > img{
+    border-radius: 50%;
+    width: 166px;
+    height: 166px;
+}
+
+header > div:nth-child(1) {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 50px;
+}
+header > div:nth-child(1) > p:nth-child(2){
+    font-weight: 400;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.infoBox{
+    width: 100%;
+    height: 100%;
+    padding:10px 20px 0px 40px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 16px;
+}
+.infoBox > div {
+    margin-bottom: 20px;
+}
+
+.experiencesBox{
+    height: 100%;
+    width: 100%;
+    padding:10px 20px 20px 40px;
+}
+strong{
+    font-family: 'Playfair';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 24px;
+}
+.topic{
+    display: flex;
+    align-items: center;
+    margin: 0 0 4px 2px;
+}
+
+.topic > ion-icon{
+    margin-right: 20px;
+    font-size: 30px;
+}
+.experience{
+    display: flex;
+    margin-bottom: 12px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 16px;
+}
+.experience >div:nth-child(2)>div:nth-child(1){
+font-weight: 600;
+}
+
+.experience >div:nth-child(2)>div:nth-child(3){
+    margin-top: 8px;
+}
+.experienceTitle{
+    font-weight: 400;
+}
+.experienceSubtitle{
+    font-weight: 400;
+}
+.description >li {
+    margin-bottom: 8px;
+}
+.period{
+margin: 0 9px 0 2px;
+}
+
+.period > p {
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.aboutMe > .description{
+
+    margin-top: 6px;
+}
+.aboutMe > .description > p{
+    margin-top: 6px;
+}
+
+.contac > div:nth-child(2) > div{
+    display: flex;
+    align-items: center;
+    margin-top: 6px;
+}
+
+.contac > div:nth-child(2) > div> ion-icon{
+    font-size: 20px;
+    margin-right: 6px;
+}
+
+.tools > div:nth-child(1){
+    display: flex;
+    align-items: center;
+    margin-top: 6px;
+    font-weight: 900;
+}
+
+.tools > div:nth-child(1) > ion-icon{
+    font-size: 24px;
+    margin-right: 6px;
+    margin-top: 6px;
+}
+.language{
+    margin-top: 6px;
+}
+.language > div:nth-child(1){
+    margin-bottom: 4px;
+    font-weight: 600;
+}
+.repositorio > div{
+    display: flex;
+    align-items: center;
+}
+.repositorio > div > ion-icon{
+    font-size: 35px;
+    margin-right: 6px;
+}

@@ -6,4 +6,7 @@
 [cv-english.vercel.app](https://cv-english.vercel.app/) - English Version
 </br>
 You can also dowload the cv pdf : 
-[cv-RafaelaMirabile.pdf](https://github.com/RafaelaMirabile/CV-Curriculum/files/9956586/cv-RafaelaMirabile.pdf)
+</br>
+ - Portuguese version 
+</br>
+[cv-english_vercel_removed (1).pdf](https://github.com/RafaelaMirabile/CV-English/files/9963912/cv-english_vercel_removed.1.pdf) - English Version

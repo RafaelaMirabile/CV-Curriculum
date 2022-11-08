@@ -9,4 +9,4 @@ You can also dowload the cv pdf :
 </br>
  [cv-curriculum_RafaelaMirabile.pdf](https://github.com/RafaelaMirabile/CV-English/files/9964031/cv-curriculum_RafaelaMirabile.pdf) - Portuguese version 
 </br>
-[cv-english_vercel_removed (1).pdf](https://github.com/RafaelaMirabile/CV-English/files/9963912/cv-english_vercel_removed.1.pdf) - English Version
+[cv-english_RafaelaMirabile.pdf](https://github.com/RafaelaMirabile/CV-English/files/9964041/cv-english_RafaelaMirabile.pdf)- English Version

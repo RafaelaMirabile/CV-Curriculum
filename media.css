@@ -1,11 +1,17 @@
 @media screen and (max-width: 630px){
     header > div:nth-child(2) > img{
         border-radius: 50%;
-        width: 126px;
-        height: 126px;
+        width: 116px;
+        height: 116px;
     }
     .container{
         display:flex;
         flex-direction: column;
     } 
+    header{
+        padding:auto;
+    }
+    header > div:nth-child(1){
+        font-size: 43px;
+    }
 }
